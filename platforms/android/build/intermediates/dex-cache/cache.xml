@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Applications/Node/myworkouts/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.2.3/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cd2af1a7180eb6427b58d868cd841d8212aca77e">
+        <dex dex="/Applications/Node/myworkouts/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-6.2.3-debug_56ce1d2b51638e745636650bb2340a8568ae9af7.jar" />
+    </item>
+
+</items>
